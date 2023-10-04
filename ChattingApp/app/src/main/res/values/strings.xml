@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">ChattingApp</string>
+    <string name="msg_token_fmt" translatable="false"> 토큰 : %s</string>
+    <array name="png_illust">
+        <item>@drawable/icon_sys</item>
+        <item>@drawable/icon_sora</item>
+        <item>@drawable/icon_robo</item>
+        <item>@drawable/icon_azki</item>
+        <item>@drawable/icon_miko</item>
+        <item>@drawable/icon_sui</item>
+        <item>@drawable/icon_meru</item>
+        <item>@drawable/icon_aki</item>
+        <item>@drawable/icon_haato</item>
+        <item>@drawable/icon_hubuki</item>
+        <item>@drawable/icon_matsuri</item>
+        <item>@drawable/icon_aqua</item>
+        <item>@drawable/icon_shion</item>
+        <item>@drawable/icon_ayame</item>
+        <item>@drawable/icon_choco</item>
+        <item>@drawable/icon_subaru</item>
+        <item>@drawable/icon_mio</item>
+        <item>@drawable/icon_okayu</item>
+        <item>@drawable/icon_korone</item>
+        <item>@drawable/icon_peko</item>
+        <item>@drawable/icon_flare</item>
+        <item>@drawable/icon_noel</item>
+        <item>@drawable/icon_marine</item>
+        <item>@drawable/icon_kanata</item>
+        <item>@drawable/icon_watame</item>
+        <item>@drawable/icon_towa</item>
+        <item>@drawable/icon_luna</item>
+        <item>@drawable/icon_lamy</item>
+        <item>@drawable/icon_nene</item>
+        <item>@drawable/icon_botan</item>
+        <item>@drawable/icon_polka</item>
+        <item>@drawable/icon_la</item>
+        <item>@drawable/icon_lui</item>
+        <item>@drawable/icon_koyori</item>
+        <item>@drawable/icon_chloe</item>
+        <item>@drawable/icon_iroha</item>
+        <item>@drawable/icon_calliope</item>
+        <item>@drawable/icon_kiara</item>
+        <item>@drawable/icon_inanis</item>
+        <item>@drawable/icon_gura</item>
+        <item>@drawable/icon_ame</item>
+        <item>@drawable/icon_irys</item>
+        <item>@drawable/icon_fauna</item>
+        <item>@drawable/icon_kronii</item>
+        <item>@drawable/icon_mumei</item>
+        <item>@drawable/icon_baelz</item>
+        <item>@drawable/icon_risu</item>
+        <item>@drawable/icon_moona</item>
+        <item>@drawable/icon_iofifteen</item>
+        <item>@drawable/icon_ollie</item>
+        <item>@drawable/icon_anya</item>
+        <item>@drawable/icon_reine</item>
+        <item>@drawable/icon_zeta</item>
+        <item>@drawable/icon_kaela</item>
+        <item>@drawable/icon_kobo</item>
+        <item>@drawable/icon_novella</item>
+        <item>@drawable/icon_bijou</item>
+        <item>@drawable/icon_nerissa</item>
+        <item>@drawable/icon_fuwamoco</item>
+        <item>@drawable/icon_ao</item>
+        <item>@drawable/icon_kanade</item>
+        <item>@drawable/icon_ririka</item>
+        <item>@drawable/icon_raden</item>
+        <item>@drawable/icon_hajime</item>
+
+
+
+
+    </array>
+
+</resources>
